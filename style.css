@@ -26,3 +26,10 @@ cite {
     font-weight: 600;
     font-style: normal;
 }
+header{
+    padding-top:10vh;
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)), url("img/moneda-inicio.jpg");
+    background-size: 100% auto;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
