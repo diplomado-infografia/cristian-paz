@@ -36,3 +36,9 @@ header{
     background-position: center bottom;
     background-repeat: no-repeat;
 }
+
+<style>
+  .custom-width {
+    width: 120%; /* El valor puede ser ajustado según lo necesites */
+  }
+</style>
