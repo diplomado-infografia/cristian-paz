@@ -33,16 +33,3 @@ header{
     background-position: center bottom;
     background-repeat: no-repeat;
 }
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 120%;
-}
-.centrado {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 10vh;
-    margin: 70px 0
-}
